@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [V2 220uF ASIC] of PCB Document [CoinCraftA1.PcbDoc]
+   Generated File[CoinCraftA1(V2 220uF ASIC).step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:51:24 On 7.3.2014 ã.

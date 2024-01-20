@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: CoinCraftA1.PcbDoc   7.3.2014 ã.  16:51:01
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : CoinCraftA1-Plated.TXT
+ASCII Non-Plated RoundHoles File : CoinCraftA1-NonPlated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          3703             5439.49 mm (214.15 Inch)
+T2        0.9mm (35.433mil)        Round          24               175.51 mm (6.91 Inch)
+T3        1mm (39.37mil)           Round          3                7.00 mm (0.28 Inch)
+T4        1.8mm (70.866mil)        Round          12               61.40 mm (2.42 Inch)
+T5        4mm (157.48mil)          Round          10               453.69 mm (17.86 Inch)
+T6        0.9mm (35.433mil)        Round          2         NPTH   4.40 mm (0.17 Inch)
+---------------------------------------------------------------------------
+Totals                                            3754             6141.49 mm (241.79 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
